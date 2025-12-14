@@ -86,7 +86,7 @@ const App = () => {
         </div>
       )}
 
-      <div className="min-h-screen bg-black flex justify-center items-center ">
+      <div className="min-h-screen bg-gray-100 flex justify-center items-center ">
         <div className="w-full max-w-xl bg-white rounded-2xl shadow-lg p-6">
           <h1 className="text-3xl font-bold text-center mb-6 text-gray-800">
             📝 ToDo List
